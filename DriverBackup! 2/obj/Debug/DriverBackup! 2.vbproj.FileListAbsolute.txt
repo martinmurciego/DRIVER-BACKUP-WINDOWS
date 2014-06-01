@@ -1,0 +1,50 @@
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmBackup.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmCmdBuilder.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmDonate.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRestore.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.vbproj.GenerateResource.Cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmOffline.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmBackup.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmCmdBuilder.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmDonate.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmOffline.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRestore.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.vbproj.GenerateResource.Cache
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+D:\Giuseppe\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmBackup.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmCmdBuilder.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmDonate.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmOffline.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRestore.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmHelpDevelop.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResGen.read.1.tlog
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResGen.write.1.tlog

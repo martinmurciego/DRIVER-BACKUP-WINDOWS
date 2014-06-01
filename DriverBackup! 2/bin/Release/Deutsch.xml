@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OBJECTSCOLLECTION>
+    <IDENTIFIER>
+        <IDDRVBK>DriverBackup Sprachdatei</IDDRVBK>
+        <AUTHOR>Kurt Lettmaier</AUTHOR>
+        <LANGUAGE>Deutsch</LANGUAGE>
+    </IDENTIFIER>
+    <frmBackup>
+        <PROPERTIES>
+            <Text>Backup der markierten Geräte</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_devTree>
+                <Text />
+            </_devTree>
+            <_lblDevFound>
+                <Text>Label1</Text>
+            </_lblDevFound>
+            <_optBox>
+                <Text>Optionen</Text>
+            </_optBox>
+            <_cmdBackup>
+                <Text>Backup starten!</Text>
+            </_cmdBackup>
+            <_cmdOk>
+                <Text>OK</Text>
+            </_cmdOk>
+            <_cmdCancel>
+                <Text>Abrechen</Text>
+            </_cmdCancel>
+            <_cmdContinue>
+                <Text>Weiter..</Text>
+            </_cmdContinue>
+            <_txtDevFormat>
+                <Text />
+            </_txtDevFormat>
+            <_Label5>
+                <Text>Gerätepfad-Format</Text>
+            </_Label5>
+            <_chkAutoRestore>
+                <Text>Dateien zur automatischen Wiederherstellung der Treiber erzeugen</Text>
+            </_chkAutoRestore>
+            <_chkOverwrite>
+                <Text>DriverBackup das Überschreiben von Dateien im Zielpfad erlauben, falls erforderlich.(Nicht empfohlen)</Text>
+            </_chkOverwrite>
+            <_txtFormat>
+                <Text />
+            </_txtFormat>
+            <_Label2>
+                <Text>Pfadformat</Text>
+            </_Label2>
+            <_Button5>
+                <Text>Durchsuchen..</Text>
+            </_Button5>
+            <_txtPath>
+                <Text>[Klicken Sie auf Durchsuchen, um den Pfad zu wählen]</Text>
+            </_txtPath>
+            <_Label1>
+                <Text>Pfad</Text>
+            </_Label1>
+            <_cmdLog>
+                <Text>Logdatei speichern</Text>
+            </_cmdLog>
+            <_deviceBar>
+                <Text />
+            </_deviceBar>
+            <_infoBox>
+                <Text>Status</Text>
+            </_infoBox>
+            <_backupBar>
+                <Text />
+            </_backupBar>
+            <_Label4>
+                <Text>Gesamt</Text>
+            </_Label4>
+            <_Label3>
+                <Text>Aktuelles Gerät</Text>
+            </_Label3>
+            <_Label6>
+                <Text>Beschreibung</Text>
+            </_Label6>
+            <_txtDesc>
+                <Text>[Fügen Sie hier eine Beschreibung ein]</Text>
+            </_txtDesc>
+            <_txtBackupFile>
+                <Text />
+            </_txtBackupFile>
+            <_Label7>
+                <Text>Backup-Dateiname</Text>
+            </_Label7>
+            <_Label8>
+                <Text>Kopiere Datei</Text>
+            </_Label8>
+            <_lblFilename>
+                <Text />
+            </_lblFilename>
+            <_txtDateFormat>
+                <Text />
+            </_txtDateFormat>
+            <_Label10>
+                <Text>Datumsformat</Text>
+            </_Label10>
+            <_Label9>
+                <Text>Voller Pfad</Text>
+            </_Label9>
+            <_lblOutputPath>
+                <Text>[Klicken Sie auf Durchsuchen, um den Pfad zu wählen]</Text>
+            </_lblOutputPath>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmBackup>
+    <frmCmdBuilder>
+        <PROPERTIES>
+            <Text>Befehlszeilen-Builder</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_Label1>
+                <Text>Dieses Fenster bietet einen einfachen Weg, eine gültige Befehlszeile zu erzeugen. Jetzt können Sie DriverBackup! von der Eingabeaufforderung oder über ein Skript öffnen.</Text>
+            </_Label1>
+            <_Label8>
+                <Text>Ausgang</Text>
+            </_Label8>
+            <_txtOutput>
+                <Text />
+            </_txtOutput>
+            <_Button1>
+                <Text>OK</Text>
+            </_Button1>
+            <_Button2>
+                <Text>Kopieren</Text>
+            </_Button2>
+            <_Button3>
+                <Text>Generieren</Text>
+            </_Button3>
+            <_groupBackup>
+                <Text />
+            </_groupBackup>
+            <_chkAutoRestore>
+                <Text>Dateien zur automatischen Wiederherstellung der Treiber erzeugen</Text>
+            </_chkAutoRestore>
+            <_chkOverwrite>
+                <Text>DriverBackup das Überschreiben von Dateien im Zielpfad erlauben, falls erforderlich.(Nicht empfohlen)</Text>
+            </_chkOverwrite>
+            <_txtBackupFile>
+                <Text />
+            </_txtBackupFile>
+            <_Label7>
+                <Text>Backup-Dateiname</Text>
+            </_Label7>
+            <_Label6>
+                <Text>Beschreibung</Text>
+            </_Label6>
+            <_txtDesc>
+                <Text>[Fügen Sie hier eine Beschreibung ein]</Text>
+            </_txtDesc>
+            <_txtDevFormat>
+                <Text />
+            </_txtDevFormat>
+            <_Label5>
+                <Text>Gerätepfad-Format</Text>
+            </_Label5>
+            <_txtFormat>
+                <Text />
+            </_txtFormat>
+            <_Label2>
+                <Text>Pfadformat</Text>
+            </_Label2>
+            <_Button5>
+                <Text>Durchsuchen..</Text>
+            </_Button5>
+            <_txtPath>
+                <Text>[Klicken Sie auf Durchsuchen, um den Pfad zu wählen]</Text>
+            </_txtPath>
+            <_Label3>
+                <Text>Pfad</Text>
+            </_Label3>
+            <_groupRestore>
+                <Text />
+            </_groupRestore>
+            <_txtRestoreFile>
+                <Text />
+            </_txtRestoreFile>
+            <_Label9>
+                <Text>Backup-Datei</Text>
+            </_Label9>
+            <_chkForceUpdate>
+                <Text>Treiber aktualisieren, wenn sie bereits installiert sind</Text>
+            </_chkForceUpdate>
+            <_chkPnPUpdate>
+                <Text>Nach der Wiederherstellung nach neuen PlugNPlay-Geräten suchen (Empfohlen)</Text>
+            </_chkPnPUpdate>
+            <_Button4>
+                <Text>Durchsuchen</Text>
+            </_Button4>
+            <_Label4>
+                <Text>DriverBackup! Automatisch erweiterte Systemvariablen (z.B. %windir%) in Pfaden oder Dateinamen, nicht aber in Form von Beschreibungen.</Text>
+            </_Label4>
+            <_GroupBox1>
+                <Text />
+            </_GroupBox1>
+            <_optRestore>
+                <Text>Wiederherstellen</Text>
+            </_optRestore>
+            <_optBackup>
+                <Text>Backup</Text>
+            </_optBackup>
+            <_GroupBox2>
+                <Text />
+            </_GroupBox2>
+            <_chkPort>
+                <Text>Volle Portabilität</Text>
+            </_chkPort>
+            <_chkSignature>
+                <Text>Digitale Signatur</Text>
+            </_chkSignature>
+            <_optThird>
+                <Text>Drittanbieter</Text>
+            </_optThird>
+            <_optOEM>
+                <Text>OEM</Text>
+            </_optOEM>
+            <_optAll>
+                <Text>Alle</Text>
+            </_optAll>
+            <_chkLog>
+                <Text>Logging</Text>
+            </_chkLog>
+            <_txtDateFormat>
+                <Text />
+            </_txtDateFormat>
+            <_Label10>
+                <Text>Path</Text>
+            </_Label10>
+            <_optRecommended>
+                <Text>Auto-Markierung</Text>
+            </_optRecommended>
+            <_chkVerbose>
+                <Text>Wortreicher Modus</Text>
+            </_chkVerbose>
+            <_chkOffline>
+                <Text>Treiber-Backup von Offline-System</Text>
+            </_chkOffline>
+            <_txtSysPath>
+                <Text />
+            </_txtSysPath>
+            <_lblSysPath>
+                <Text>Offline-Systempfad</Text>
+            </_lblSysPath>
+            <_chkUseOfflineName>
+                <Text>Verwende den Offline-Computername, um den Tag %COMPUTERNAME% zu erweitern.</Text>
+            </_chkUseOfflineName>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmCmdBuilder>
+    <frmMain>
+        <PROPERTIES>
+            <Text>DriverBackup! 2.0.0</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_MenuStrip1>
+                <Text>Menüleiste1</Text>
+            </_MenuStrip1>
+            <_StatusStrip1>
+                <Text>Statusleiste1</Text>
+            </_StatusStrip1>
+            <_devInfoBox>
+                <Text>Weitere Informationen über das gewählte Gerät</Text>
+            </_devInfoBox>
+            <_lblDevPort>
+                <Text>Label16</Text>
+            </_lblDevPort>
+            <_lblDevTipo>
+                <Text>Label15</Text>
+            </_lblDevTipo>
+            <_lblID>
+                <Text>Label14</Text>
+            </_lblID>
+            <_lblData>
+                <Text>Label13</Text>
+            </_lblData>
+            <_lblFirma>
+                <Text>Label12</Text>
+            </_lblFirma>
+            <_lblFileINF>
+                <Text>Label11</Text>
+            </_lblFileINF>
+            <_lblProduttore>
+                <Text>Label10</Text>
+            </_lblProduttore>
+            <_lblVersione>
+                <Text>Label9</Text>
+            </_lblVersione>
+            <_lblPortRest>
+                <Text>Portabilität</Text>
+            </_lblPortRest>
+            <_Label7>
+                <Text>Digitale Signatur</Text>
+            </_Label7>
+            <_Label6>
+                <Text>Typ</Text>
+            </_Label6>
+            <_Label5>
+                <Text>Identifier</Text>
+            </_Label5>
+            <_Label4>
+                <Text>Release-Datum</Text>
+            </_Label4>
+            <_Label3>
+                <Text>Installationsdatei</Text>
+            </_Label3>
+            <_Label2>
+                <Text>Anbieter</Text>
+            </_Label2>
+            <_Label1>
+                <Text>Version</Text>
+            </_Label1>
+            <_cmdOthers>
+                <Text>Drittanbieter</Text>
+            </_cmdOthers>
+            <_cmdOem>
+                <Text>OEM</Text>
+            </_cmdOem>
+            <_cmdAll>
+                <Text>Alle</Text>
+            </_cmdAll>
+            <_treeDevices>
+                <Text />
+            </_treeDevices>
+            <_cmdSignature>
+                <Text>Digitale Signatur</Text>
+            </_cmdSignature>
+            <_cmdFullPort>
+                <Text>Volle Portabilität</Text>
+            </_cmdFullPort>
+            <_ToolStrip1>
+                <Text>ToolLeiste1</Text>
+            </_ToolStrip1>
+            <_ToolStripLabel1>
+                <Text>Modus wählen</Text>
+            </_ToolStripLabel1>
+            <_cmdBackupMode>
+                <Text>Backup</Text>
+            </_cmdBackupMode>
+            <_cmdRestoreMode>
+                <Text>Wiederherstellen</Text>
+            </_cmdRestoreMode>
+            <_lblDispTrovati>
+                <Text>Aufgeführte Geräte: 0 von 0</Text>
+            </_lblDispTrovati>
+            <_panelBackup>
+                <Text />
+            </_panelBackup>
+            <_panelRestore>
+                <Text />
+            </_panelRestore>
+            <_cmdOpenBkFile>
+                <Text>Backup-Datei öffnen</Text>
+            </_cmdOpenBkFile>
+            <_cmdRestore>
+                <Text>Wiederherstellen</Text>
+            </_cmdRestore>
+            <_cmdBackup>
+                <Text>Backup starten</Text>
+            </_cmdBackup>
+            <_cmdUpdate>
+                <Text>Aktualisieren</Text>
+            </_cmdUpdate>
+            <_lblBarInfo>
+                <Text />
+            </_lblBarInfo>
+            <_devScanBar>
+                <Text />
+            </_devScanBar>
+            <_Label9>
+                <Text>Auf ein Gerät klicken für mehr Informationen</Text>
+            </_Label9>
+            <_Label10>
+                <Text>DriverBackup 2!</Text>
+            </_Label10>
+            <_Label11>
+                <Text>by Giuseppe Greco</Text>
+            </_Label11>
+            <_lblOpSystem>
+                <Text>Label8</Text>
+            </_lblOpSystem>
+            <_lblFiles>
+                <Text>Label12</Text>
+            </_lblFiles>
+            <_pictDev>
+                <Text />
+            </_pictDev>
+            <_ToolStripMenuItem1>
+                <Text>&amp;?</Text>
+            </_ToolStripMenuItem1>
+            <_EsciDaDriverBackupToolStripMenuItem>
+                <Text>DriverBackup! beenden</Text>
+            </_EsciDaDriverBackupToolStripMenuItem>
+            <_GuidaAlBackupToolStripMenuItem>
+                <Text>Backup Hilfe</Text>
+            </_GuidaAlBackupToolStripMenuItem>
+            <_GuidaAlRipristinoToolStripMenuItem>
+                <Text>Wiederherstellen Hilfe</Text>
+            </_GuidaAlRipristinoToolStripMenuItem>
+            <_GuidaAllaRigaDiComandoToolStripMenuItem>
+                <Text>Befehlszeilen-Optionen</Text>
+            </_GuidaAllaRigaDiComandoToolStripMenuItem>
+            <_InfoSuDriverBackupToolStripMenuItem>
+                <Text>Über DriverBackup!</Text>
+            </_InfoSuDriverBackupToolStripMenuItem>
+            <_UtilitàToolStripMenuItem>
+                <Text>Tools</Text>
+            </_UtilitàToolStripMenuItem>
+            <_BuilderRigaDiComandoToolStripMenuItem>
+                <Text>Befehlszeilen-Builder</Text>
+            </_BuilderRigaDiComandoToolStripMenuItem>
+            <_cmdBkExtInfo>
+                <Text>Backup-Informationen</Text>
+            </_cmdBkExtInfo>
+            <_pckInfoBox>
+                <Text>Erweiterte Backup-Informationen</Text>
+            </_pckInfoBox>
+            <_Label13>
+                <Text>Erstellungsdatum</Text>
+            </_Label13>
+            <_Label12>
+                <Text>Computername</Text>
+            </_Label12>
+            <_Label8>
+                <Text>Betriebssystem</Text>
+            </_Label8>
+            <_lblPckSysVersion>
+                <Text>Label22</Text>
+            </_lblPckSysVersion>
+            <_lblPckDrvVersion>
+                <Text>Label21</Text>
+            </_lblPckDrvVersion>
+            <_lblPckDate>
+                <Text>Label20</Text>
+            </_lblPckDate>
+            <_lblPckSystem>
+                <Text>Label19</Text>
+            </_lblPckSystem>
+            <_lblPckComputerName>
+                <Text>Label18</Text>
+            </_lblPckComputerName>
+            <_lblPckDesc>
+                <Text>Label17</Text>
+            </_lblPckDesc>
+            <_Label16>
+                <Text>Beschreibung</Text>
+            </_Label16>
+            <_Label15>
+                <Text>DriverBackup! Version</Text>
+            </_Label15>
+            <_Label14>
+                <Text>Betriebssystem Version</Text>
+            </_Label14>
+            <_lblPckInfo>
+                <Text>Label17</Text>
+            </_lblPckInfo>
+            <_pictPck>
+                <Text />
+            </_pictPck>
+            <_popupMenu>
+                <Text />
+            </_popupMenu>
+            <_popupSelectAll>
+                <Text>Alles markieren</Text>
+            </_popupSelectAll>
+            <_popupCancelSelect>
+                <Text>Auswahl aufheben</Text>
+            </_popupCancelSelect>
+            <_ToolStripSeparator3>
+                <Text />
+            </_ToolStripSeparator3>
+            <_popupAll>
+                <Text>Alles</Text>
+            </_popupAll>
+            <_popupOem>
+                <Text>OEM</Text>
+            </_popupOem>
+            <_popupThird>
+                <Text>Drittanbieter</Text>
+            </_popupThird>
+            <_ToolStripSeparator4>
+                <Text />
+            </_ToolStripSeparator4>
+            <_popupSignature>
+                <Text>Digitale Signatur</Text>
+            </_popupSignature>
+            <_popupPortability>
+                <Text>Volle Portabilität</Text>
+            </_popupPortability>
+            <_ToolStripMenuItem2>
+                <Text>Baum minimieren</Text>
+            </_ToolStripMenuItem2>
+            <_ToolStripMenuItem3>
+                <Text>Baum erweitern</Text>
+            </_ToolStripMenuItem3>
+            <_menuLang>
+                <Text>Sprache</Text>
+            </_menuLang>
+            <_ToolStripMenuItem4>
+                <Text>Hilfe</Text>
+            </_ToolStripMenuItem4>
+            <_MostraDispositiviPCIToolStripMenuItem>
+                <Text>Zeige angeschlossene PCI-Geräte</Text>
+            </_MostraDispositiviPCIToolStripMenuItem>
+            <_cmdOfflineMode>
+                <Text>Backup von Offline-System</Text>
+            </_cmdOfflineMode>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmMain>
+    <frmRestore>
+        <PROPERTIES>
+            <Text>Markierte Geräte wiederherstellen</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_devTree>
+                <Text />
+            </_devTree>
+            <_chkPnPUpdate>
+                <Text>Nach der Wiederherstellung nach neuen PlugNPlay-Geräten suchen (Empfohlen)</Text>
+            </_chkPnPUpdate>
+            <_cmdLog>
+                <Text>Logdatei speichern</Text>
+            </_cmdLog>
+            <_cmdContinue>
+                <Text>Weiter..</Text>
+            </_cmdContinue>
+            <_cmdCancel>
+                <Text>Abrechen</Text>
+            </_cmdCancel>
+            <_cmdOk>
+                <Text>OK</Text>
+            </_cmdOk>
+            <_cmdRestore>
+                <Text>Wiederherstellen</Text>
+            </_cmdRestore>
+            <_lblDevFound>
+                <Text>Markierte Geräte: 0</Text>
+            </_lblDevFound>
+            <_chkForceUpdate>
+                <Text>Treiber-Konfiguration aktualisieren, wenn er bereits installiert ist</Text>
+            </_chkForceUpdate>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmRestore>
+    <frmDonate>
+        <PROPERTIES>
+            <Text>Spenden</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_Label1>
+                <Text>Ein paar Dollar haben keinen Einfluss auf Ihr Budget, sind aber sehr wichtig für mich. Ich bin ein Student und ich verbringe viel Zeit mit Schreiben, Prüfen und Aktualisieren dieses Programms. Doch DriverBackup ist ein kostenloses Programm. Wenn Sie mit diesem Programm zufrieden sind, leisten Sie bitte eine Spende. Danke schön.</Text>
+            </_Label1>
+            <_LinkLabel1>
+                <Text>http://sourceforge.net/project/project_donations.php?group_id=176359</Text>
+            </_LinkLabel1>
+            <_chkShowAgain>
+                <Text>Diesen Dialog nicht wieder anzeigen.</Text>
+            </_chkShowAgain>
+            <_Button1>
+                <Text>OK</Text>
+            </_Button1>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmDonate>
+    <frmOffline>
+        <PROPERTIES>
+            <Text>Offline-Backup</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_txtsysPath>
+                <Text />
+            </_txtsysPath>
+            <_cmdBrowse>
+                <Text>Durchsuchen</Text>
+            </_cmdBrowse>
+            <_Label1>
+                <Text>Offline-Computername</Text>
+            </_Label1>
+            <_lblPcName>
+                <Text />
+            </_lblPcName>
+            <_chkUseOfflineName>
+                <Text>Verwende den Offline-Computername, um den Tag %COMPUTERNAME% zu erweitern.</Text>
+            </_chkUseOfflineName>
+            <_cmdLoad>
+                <Text>Laden</Text>
+            </_cmdLoad>
+            <_cmdOk>
+                <Text>OK</Text>
+            </_cmdOk>
+            <_Label2>
+                <Text>Diesen Computer mit einem Speichermedium mit einer gültigen Windows-Installation verbinden.</Text>
+            </_Label2>
+            <_Label3>
+                <Text>WARNUNG:Unterstützte Systeme NT/2000/Xp/Vista/7.</Text>
+            </_Label3>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmOffline>
+    <frmHelpDevelop>
+        <PROPERTIES>
+            <Text>Hilf bei der DriverBackup!-Entwicklung</Text>
+        </PROPERTIES>
+        <CONTROLS>
+            <_Label1>
+                <Text>Die Entwicklung und Fehlerprüfung dieses Programms nimmt sehr viel Zeit in Anspruch. Helfen Sie mir, diese von vielen Nutzern dieser Welt gewünschte Arbeit fortzusetzen. Bitte laden Sie diese Datei herunter (ein 2Mb-Archiv), indem Sie auf den blauen Link klick und ein paar Sekunden warten. Die Webseite ist 100% sicher und kein Virus wird Ihr System angreifen. Nach dem Download können Sie diese harmlose Datei löschen. Danke für Ihre Zusammenarbeit und vergessen Sie falls möglich  nicht, die Datei herunterzuladen während Sie dieses Programm nutzen.</Text>
+            </_Label1>
+            <_LinkLabel1>
+                <Text>http://www.megaupload.com/?d=HD1W9A01</Text>
+            </_LinkLabel1>
+            <_Button1>
+                <Text>Ok</Text>
+            </_Button1>
+            <_Label2>
+                <Text>Helfen Sie DriverBackup!, indem Sie diese Datei herunterladen!</Text>
+            </_Label2>
+        </CONTROLS>
+        <CUSTOMARRS />
+    </frmHelpDevelop>
+    <CommonVariables>
+        <PROPERTIES />
+        <CONTROLS />
+        <CUSTOMARRS>
+            <langStrs>
+                <GENERIC>Unbekannter Fehler</GENERIC>
+                <YES>Ja</YES>
+                <NO>Nein</NO>
+                <ERROR_FLD>Ausgewählter Ordner existiert nicht. Wählen Sie ein gültiges Verzeichnis.</ERROR_FLD>
+                <ERROR_BERR>Ein Fehler ist während der Ausführung des Programms aufgetreten. Starten Sie DriverBackup! neu!</ERROR_BERR>
+                <ERROR_FileWrite>Kann nicht speichern.</ERROR_FileWrite>
+                <ERROR_FileOpen>Datei kann nicht geöffnet werden. Datei könnte beschädigt sein.</ERROR_FileOpen>
+                <ERROR_RegistryAccess>DriverBackup! kann die Systemregistrierung nicht öffnen. Überprüfen Sie die Administratorrechte.</ERROR_RegistryAccess>
+                <ERROR_Admin>DriverBackup! erfordert Administratorrechte. Starten Sie das Programm mit den erforderlichen Berechtigungen neu oder kontaktieren Sie den Systemadministrator.</ERROR_Admin>
+                <ERROR_BadSystem>DriverBackup! kann auf diesen Betriebssystemen nicht ausgeführt werden. Das Programm wird geschlossen.</ERROR_BadSystem>
+                <BRE_Generic>Während des Operation ist ein unbekannter Fehler aufgetreten.</BRE_Generic>
+                <BRE_InvalidDevice>Informationen über Geräte sind beschädigt oder falsch.</BRE_InvalidDevice>
+                <BRE_UnformattablePath>Ungültiges Pfadformat.</BRE_UnformattablePath>
+                <BRE_NoDevices>Keine Geräte ausgewählt.</BRE_NoDevices>
+                <BRE_FileOverwiting>Datei kann nicht überschrieben werden</BRE_FileOverwiting>
+                <BRE_LackOfSpace>Zielfestplatte ist voll.</BRE_LackOfSpace>
+                <BRE_CantReadWriteBkInfo>Backup-Datei kann nicht gelesen\geschrieben werden.</BRE_CantReadWriteBkInfo>
+                <BRE_FileIOError>Dateizugriff verweigert. Überprüfen Sie die Administratorrechte...</BRE_FileIOError>
+                <BRE_OpCanceled>Operation vom Benutzer abgebrochen.</BRE_OpCanceled>
+                <BRE_OemInfExist>Der Treiber ist bereits auf diesem Computer installiert.</BRE_OemInfExist>
+                <BRE_OemInfAlreadyUsed>Der Treiber wird bereits von einem oder mehreren Geräten verwendet, und er ist nicht entfernbar.</BRE_OemInfAlreadyUsed>
+                <BRE_MissingInfFile>Installationsdatei kann nicht gefunden werden.</BRE_MissingInfFile>
+                <BRE_CantCopyDriver>Treiberdateien können nicht in den Wiederherstellungpfad kopiert werden.</BRE_CantCopyDriver>
+                <DCmp_None>Keine</DCmp_None>
+                <DCmp_Partial>Teilweise</DCmp_Partial>
+                <DCmp_Full>Voll</DCmp_Full>
+                <LOG_Framework>Microsoft Framework .NET Version: </LOG_Framework>
+                <LOG_Memory>Verfügbaren Speicher: {0} von {1} Kbytes.</LOG_Memory>
+                <LOG_Device>\n{0}\n\tKlasse: {1}\n\tAnbieter:  {2}\n\tVersion: {3}\n\tRelease-Datum: {4}\n\tInf-Datei:  {5}\n\tDateien gesamt:  {6}\n\n</LOG_Device>
+                <LOG_DeviceOK>Gerät erfolgreich verarbeitet!</LOG_DeviceOK>
+                <LOG_DeviceError>Beim Verarbeit der Geräte ist ein Fehler aufgetreten.</LOG_DeviceError>
+                <FRMMAIN_NOPCIDTB>Datenbankdatei pci.ids nicht gefunden. Kann die PCI-Geräteinformationen nicht abfragen.</FRMMAIN_NOPCIDTB>
+                <FRMMAIN_NODEVICES>Keine Geräte wurden gefunden. Überprüfen Sie die Administratorrechte oder ändern Sie die Listenoptionen.</FRMMAIN_NODEVICES>
+                <FRMMAIN_COMPFULL>Der Treiber ist für Backup und Wiederherstellung kompatibel.</FRMMAIN_COMPFULL>
+                <FRMMAIN_COMPPARTIAL>Der Treiber ist nur auf dem aktuelle Windows-Version verwendbar.</FRMMAIN_COMPPARTIAL>
+                <FRMMAIN_RCOMPPARTIAL>Der Treiber ist nicht mit diesem Betriebssystem kompatibel.</FRMMAIN_RCOMPPARTIAL>
+                <FRMMAIN_COMPNONE>Die Treiber sind nicht wiederherstellbar.</FRMMAIN_COMPNONE>
+                <FRMMAIN_RCOMPNONE>Der Treiber ist nicht wiederherstellbar.</FRMMAIN_RCOMPNONE>
+                <FRMMAIN_FILES>Alle Dateien gefunden.</FRMMAIN_FILES>
+                <FRMMAIN_NOFILES>Einige Dateien fehlen.</FRMMAIN_NOFILES>
+                <FRMMAIN_NORESTDEVICES>Öffnen Sie eine Backup-Datei oder ändern Sie die Listenoptionen.</FRMMAIN_NORESTDEVICES>
+                <FRMMAIN_DEVFOUND>Aufgeführte Geräte: {0} von {1}</FRMMAIN_DEVFOUND>
+                <FRMMAIN_DIFFERENTSYSTEMS>Die ursprünglichen Systemtreiber unterscheiden sich von den Aktuellen. Sie sind nicht kompatibel mit diesem System.</FRMMAIN_DIFFERENTSYSTEMS>
+                <FRMMAIN_TREENODEDEV>{0}   ({1} Gerät)</FRMMAIN_TREENODEDEV>
+                <FRMMAIN_DRIVERREQUIRED>Der gewählte Treiber wird von einer Hardwarekomponente benötigt, die an Ihren Computer angeschlossen aber nicht installiert ist.</FRMMAIN_DRIVERREQUIRED>
+                <FRMMAIN_DRIVERUPDATE>Der Treiber ist bereits in einer älteren Version installiert. Mit dem Wiederherstellen fortfahren, um den Treiber zu aktualisieren.</FRMMAIN_DRIVERUPDATE>
+                <FRMMAIN_DRIVERNOTREQUIRED>Der Treiber wird von irgendeiner Hardware benötigt, konnte aber nicht wiederhergestellt werden.</FRMMAIN_DRIVERNOTREQUIRED>
+                <FRMBACK_DEVFOUND>Ausgewählte Geräte: {0}   Größe: {1} Mbytes</FRMBACK_DEVFOUND>
+                <FRMBACK_BEGINBACKUP>Sicherung begonnen. {0} Gewählte Geräte.</FRMBACK_BEGINBACKUP>
+                <FRMBACK_ENDBACKUP>Backup ist fertiggestellt. Gesicherte Geräte: {0} von {1}.</FRMBACK_ENDBACKUP>
+                <FRMBACK_ENDBACKUPERR>Backup abgebrochen, da ein unbekannter Fehler aufgetreten ist.</FRMBACK_ENDBACKUPERR>
+                <FRMBACK_ENDDEVICE>Geräte sind fertiggestellt. Kopierte Dateien: {0} von {1}</FRMBACK_ENDDEVICE>
+                <FRMBACK_FILECOPIED>Datei kopieren: {0}</FRMBACK_FILECOPIED>
+                <FRMBACK_LOGSAVED>Log-Datei gespeichert!</FRMBACK_LOGSAVED>
+                <FRMBACK_BACKUPTIME>Verstrichene Zeit: {0} sec.</FRMBACK_BACKUPTIME>
+                <FRMRESTORE_BEGINRESTORE>Wiederherstellung begonnen. {0} ausgewählte Geräte.</FRMRESTORE_BEGINRESTORE>
+                <FRMRESTORE_ENDRESTORE>Wiederherstellung fertiggestellt.</FRMRESTORE_ENDRESTORE>
+                <FRMRESTORE_PNPRESCAN>PlugNPlay-Scan erfolgreich abgeschlossen.</FRMRESTORE_PNPRESCAN>
+                <FRMRESTORE_PNPRESCANFAILED>Der Scannen nach neuen PlugNPlay-Geräten kann nicht gestartet werden.</FRMRESTORE_PNPRESCANFAILED>
+                <FRMRESTORE_ENDDEVICE>Gerät fertiggestellt.</FRMRESTORE_ENDDEVICE>
+                <FRMRESTORE_OEMINF>OEM-Installationsdatei: {0}</FRMRESTORE_OEMINF>
+                <FRMREMOVE_USERFORCE>Treiber wird bereits von einem oder mehreren Geräten verwendet. Trotzdem löschen?</FRMREMOVE_USERFORCE>
+                <FRMREMOVE_REMOVED>{0} Treiber entfernt von {1}</FRMREMOVE_REMOVED>
+                <FRMBUILDER_BADSETTINGS>Einige Optionen oder Informationen sind nicht korrekt. Eine gültige Befehlszeile kann nicht generiert werden.</FRMBUILDER_BADSETTINGS>
+                <FRMREMOVE_BETAVERSION>Warnung: Dies ist eine BETA-Version, die Entfernen-Funktion ist nicht vollständig getestet. Verwendung nur auf eigene Gefahr.</FRMREMOVE_BETAVERSION>
+                <CONSOLE_BADCOMMAND>Befehlszeilen-Syntaxfehler. Prüfen Sie alle Parameter.</CONSOLE_BADCOMMAND>
+                <CONSOLE_BADPARAMETER>Syntax-Fehler in: {0}</CONSOLE_BADPARAMETER>
+                <CONSOLE_USAGE>Für mehr Informationen lesen Sie die Befehlszeilen-Hilfe.</CONSOLE_USAGE>
+                <CONSOLE_DIRECTORY>Das angegebene Verzeichnis ist nicht verfügbar.</CONSOLE_DIRECTORY>
+                <CONSOLE_FILE>Die Backup-Datei kann nicht geöffnet werden.</CONSOLE_FILE>
+                <CONSOLE_INFOCOLLECT>Sammele Informationen....</CONSOLE_INFOCOLLECT>
+                <CONSOLE_WELCOME>DriverBackup! 2.0 by Giuseppe Greco  2007-2008\n\nveröffentlicht mit GPL-Lizenz\n\nBefehlszeilen-Modus\n\n</CONSOLE_WELCOME>
+                <CONSOLE_OPEND>Fertiggestellt.</CONSOLE_OPEND>
+                <CONSOLE_REGISTRYUPDATE>System-Konfiguration der Registry erfolgreich abgeschlossen.</CONSOLE_REGISTRYUPDATE>
+                <CONSOLE_MISSINGINFO>Es fehlen einige Optionen oder Informationen.</CONSOLE_MISSINGINFO>
+                <ERROR_LANGUAGE>Kann Sprachdatei nicht lesen.\nKann die Sprachquelle nicht finden.</ERROR_LANGUAGE>
+                <BRE_ForceUpdate>Der Treiber für {0} ist bereits installiert. Installation des gesicherten Treibers erzwingen?</BRE_ForceUpdate>
+                <BRE_CantForceUpdating>Der aktuelle Treiber passt besser zum Gerät als der Gesicherte. Update wurde abgebrochen.</BRE_CantForceUpdating>
+                <LOG_OperationStarted>Prozess gestartet: {0}</LOG_OperationStarted>
+                <LOG_OperationEnded>Prozess beendet: {0}</LOG_OperationEnded>
+                <FRMRESTORE_FORCEUPDATE>Der Treiber für {0} ist bereits auf Ihrem System installiert. Versuchen, die Installation des gesicherten Treibers zu erzwingen?. WARNUNG: Der gesicherten Treiber wird installiert obwohl seine Version älter ist.</FRMRESTORE_FORCEUPDATE>
+                <FRMOFFLINE_GENERIC>Kann Offline-Backup nicht initialisieren.</FRMOFFLINE_GENERIC>
+                <FRMOFFLINE_PRIVILEGE>Das Programm kann die Registry-Einstellungen des Offline-Systems nicht laden. Administrative Privilegien sind erforderlich.</FRMOFFLINE_PRIVILEGE>
+                <FRMOFFLINE_PATH>Der gewählte Pfad enthält keine gültige Windows-Installation.</FRMOFFLINE_PATH>
+                <CONSOLE_CANTCREATEDIR>Kann angegebenes Verzeichnis nicht erzeugen.</CONSOLE_CANTCREATEDIR>
+                <CONSOLE_RESTORECONFIRM>Treiber wiederherstellen (J/N)?</CONSOLE_RESTORECONFIRM>
+            </langStrs>
+        </CUSTOMARRS>
+    </CommonVariables>
+</OBJECTSCOLLECTION>

@@ -1,0 +1,84 @@
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.vbproj.GenerateResource.Cache
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.exe.config
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.exe
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.pdb
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.xml
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.Form1.resources
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.Resources.resources
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.vbproj.GenerateResource.Cache
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.exe
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.xml
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.pdb
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.manifest
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.application
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe.manifest
+C:\Users\Giuseppe.PC-Giuseppe.000\Documents\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.application
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.exe.config
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.exe.manifest
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.application
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\ResolveAssemblyReference.cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmMain.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.Resources.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.vbproj.GenerateResource.Cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.exe.manifest
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup! 2.application
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmBackup.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.manifest
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.application
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmBackup.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.vbproj.GenerateResource.Cache
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe.manifest
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.application
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRestore.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRemove.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmCmdBuilder.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmCmdBuilder.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmRemove.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmRestore.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Release\DriverBackup__2.frmDonate.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\obj\Debug\DriverBackup__2.frmDonate.resources
+D:\Documenti\Applicazioni\NET\DriverBackup! 2\DriverBackup! 2\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe.config
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup! 2.exe
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup! 2.xml
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup! 2.pdb
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\bin\Debug\DriverBackup! 2.exe
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\bin\Debug\DriverBackup! 2.pdb
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\bin\Debug\DriverBackup! 2.xml
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\ResolveAssemblyReference.cache
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmBackup.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmCmdBuilder.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmDonate.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmHelpDevelop.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmMain.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmOffline.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.frmRestore.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup__2.Resources.resources
+E:\ESCRITORIO DISCO C\FACU DESARROLLO\LISTAR DRIVER INSTALADOS CON VBNET\Codigo Fuente\Driver Backup 2 Codigo Fuente\DriverBackup! 2\obj\Debug\DriverBackup! 2.vbproj.GenerateResource.Cache

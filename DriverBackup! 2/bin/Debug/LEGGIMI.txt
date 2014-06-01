@@ -1,0 +1,18 @@
+DriverBackup! 2.0 created by Giuseppe Greco
+
+
+
+1: INTALLAZIONE
+
+Windows Vista: Richesta solamente una semplice azione di "Copia & Incolla".
+
+Windows XP\Server 2003: Richiesta la presenza del Microsoft .NET Framework 2.0. Consultare la documentazione per maggiori informazioni
+
+
+***ATTENZIONE***** 
+
+E' caldamente consigliato di leggere la documentazione del programma prima dell'uso.
+
+
+
+Giuseppe Greco, Palermo 30-11-2008

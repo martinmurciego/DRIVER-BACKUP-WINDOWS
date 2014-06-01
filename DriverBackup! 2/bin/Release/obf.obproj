@@ -1,0 +1,17 @@
+<Project Name="obf" ProjectFileVersion="2" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" ID="{92bb3033-0ed5-49d0-905d-9cb5d57b3217}">
+  <SearchDirectories />
+  <OutputSettings OutputPath=".\CryptoObfuscator_Output" MainAssemblyPath="" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" LicensingMergeAssemblyName="" OverwriteInputFiles="False" BuildID="">
+    <AdditionalAssemblies />
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\obf_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" />
+  <ObfuscationRules />
+  <Assembly Load="true" Path=".\DrvBK.exe" XapEntryName="" KeyFilePath="" CertFilePath="" TimeStampURL="" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="">
+    <ObfuscationSettings EncryptStrings="True" SuppressReflector="True" ReduceMetaData="False" ObfuscationDisposition="0" FlowObfuscation="2" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True" Encrypt="False" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>

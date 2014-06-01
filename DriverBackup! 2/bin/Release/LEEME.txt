@@ -1,0 +1,18 @@
+DriverBackup! 2.1 Creado por Giuseppe Greco
+
+
+
+1: INSTALACIÓN
+
+Windows Vista: Tan sólo es necesario "Copiar y Pegar".
+
+Windows XP\Server 2003: Requiere tener instalado Microsoft .NET Framework 2.0. Leer guía de ayuda para obtener más información.
+
+
+***ATENCIÓN***** 
+
+Es ALTAMENTE recomendable leer la documentación del programa para evitar un uso erróneo del programa.
+
+
+
+Giuseppe Greco, Palermo 30-11-2008
